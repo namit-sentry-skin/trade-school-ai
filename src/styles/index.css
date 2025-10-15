@@ -1,0 +1,77 @@
+@import './fonts.css';
+
+:root {
+  --main-bg: #0B363C;
+  --accent: #C8FE62;
+  --black: #333333;
+  --white-bg: #FFFFFF;
+  --alt-bg: #F5F8F9;
+  --gray: #6b7280;
+  
+  /* Semantic aliases for easier usage */
+  --primary: #0B363C;
+  --primary-hover: #0a2c31;
+  --secondary: #C8FE62;
+  --dark: #333333;
+  --light: #F5F8F9;
+  --white: #FFFFFF;
+  
+  /* Fonts */
+  --font-body: 'PP Telegraf', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  --font-heading: 'PP Mondwest', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: var(--font-body);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  color: var(--dark);
+  overflow-x: hidden;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-heading);
+  font-weight: 700;
+  line-height: 1.2;
+}
+
+h1 {
+  font-weight: 700; /* PP Mondwest Bold */
+}
+
+h2 {
+  font-weight: 700; /* PP Mondwest Bold */
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+button {
+  cursor: pointer;
+  border: none;
+  font-family: var(--font-body);
+  font-weight: 600;
+}
+
+#root {
+  width: 100%;
+  min-height: 100vh;
+}
+

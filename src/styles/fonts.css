@@ -1,0 +1,68 @@
+/* PP Mondwest - For body/paragraph text */
+@font-face {
+  font-family: 'PP Mondwest';
+  src: url('/fonts/PPMondwest-Regular.woff2') format('woff2'),
+       url('/fonts/PPMondwest-Regular.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'PP Mondwest';
+  src: url('/fonts/PPMondwest-Medium.woff2') format('woff2'),
+       url('/fonts/PPMondwest-Medium.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'PP Mondwest';
+  src: url('/fonts/PPMondwest-SemiBold.woff2') format('woff2'),
+       url('/fonts/PPMondwest-SemiBold.woff') format('woff');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'PP Mondwest';
+  src: url('/fonts/PPMondwest-Bold.woff2') format('woff2'),
+       url('/fonts/PPMondwest-Bold.woff') format('woff');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* PP Telegraf - For headings/titles */
+@font-face {
+  font-family: 'PP Telegraf';
+  src: url('/fonts/PPTelegraf-Regular.woff2') format('woff2'),
+       url('/fonts/PPTelegraf-Regular.woff') format('woff'),
+       url('/fonts/PPTelegraf-Regular.otf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'PP Telegraf';
+  src: url('/fonts/PPTelegraf-Ultrabold.woff2') format('woff2'),
+       url('/fonts/PPTelegraf-Ultrabold.woff') format('woff'),
+       url('/fonts/PPTelegraf-Ultrabold.otf') format('opentype');
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'PP Telegraf';
+  src: url('/fonts/PPTelegraf-Ultralight.woff2') format('woff2'),
+       url('/fonts/PPTelegraf-Ultralight.woff') format('woff'),
+       url('/fonts/PPTelegraf-Ultralight.otf') format('opentype');
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+}
+
