@@ -35,9 +35,7 @@
 /* PP Telegraf - For headings/titles */
 @font-face {
   font-family: 'PP Telegraf';
-  src: url('/fonts/PPTelegraf-Regular.woff2') format('woff2'),
-       url('/fonts/PPTelegraf-Regular.woff') format('woff'),
-       url('/fonts/PPTelegraf-Regular.otf') format('opentype');
+  src: url('/fonts/PPTelegraf-Regular.otf') format('opentype');
   font-weight: 400;
   font-style: normal;
   font-display: swap;
@@ -45,9 +43,7 @@
 
 @font-face {
   font-family: 'PP Telegraf';
-  src: url('/fonts/PPTelegraf-Ultrabold.woff2') format('woff2'),
-       url('/fonts/PPTelegraf-Ultrabold.woff') format('woff'),
-       url('/fonts/PPTelegraf-Ultrabold.otf') format('opentype');
+  src: url('/fonts/PPTelegraf-Ultrabold.otf') format('opentype');
   font-weight: 800;
   font-style: normal;
   font-display: swap;
@@ -55,9 +51,7 @@
 
 @font-face {
   font-family: 'PP Telegraf';
-  src: url('/fonts/PPTelegraf-Ultralight.woff2') format('woff2'),
-       url('/fonts/PPTelegraf-Ultralight.woff') format('woff'),
-       url('/fonts/PPTelegraf-Ultralight.otf') format('opentype');
+  src: url('/fonts/PPTelegraf-Ultralight.otf') format('opentype');
   font-weight: 200;
   font-style: normal;
   font-display: swap;
