@@ -1,7 +1,7 @@
 /* OFL Goudy StM - For headings */
 @font-face {
   font-family: 'OFL Goudy StM';
-  src: url('/fonts/OFLGoudyStM.otf') format('opentype');
+  src: url('../assets/fonts/OFLGoudyStM.otf') format('opentype');
   font-weight: 600;
   font-style: normal;
   font-display: swap;
@@ -9,7 +9,7 @@
 
 @font-face {
   font-family: 'OFL Goudy StM';
-  src: url('/fonts/OFLGoudyStM-Italic.otf') format('opentype');
+  src: url('../assets/fonts/OFLGoudyStM-Italic.otf') format('opentype');
   font-weight: 400;
   font-style: italic;
   font-display: swap;
@@ -18,7 +18,7 @@
 /* Tenorite - For body text */
 @font-face {
   font-family: 'Tenorite';
-  src: url('/fonts/Tenorite_regular.ttf') format('truetype');
+  src: url('../assets/fonts/Tenorite_regular.ttf') format('truetype');
   font-weight: 400;
   font-style: normal;
   font-display: swap;
@@ -26,7 +26,7 @@
 
 @font-face {
   font-family: 'Tenorite';
-  src: url('/fonts/Tenorite_bold.ttf') format('truetype');
+  src: url('../assets/fonts/Tenorite_bold.ttf') format('truetype');
   font-weight: 700;
   font-style: normal;
   font-display: swap;
@@ -35,7 +35,7 @@
 /* PP Telegraf - For headings/titles */
 @font-face {
   font-family: 'PP Telegraf';
-  src: url('/fonts/PPTelegraf-Regular.otf') format('opentype');
+  src: url('../assets/fonts/PPTelegraf-Regular.otf') format('opentype');
   font-weight: 400;
   font-style: normal;
   font-display: swap;
@@ -43,7 +43,7 @@
 
 @font-face {
   font-family: 'PP Telegraf';
-  src: url('/fonts/PPTelegraf-Ultrabold.otf') format('opentype');
+  src: url('../assets/fonts/PPTelegraf-Ultrabold.otf') format('opentype');
   font-weight: 800;
   font-style: normal;
   font-display: swap;
@@ -51,7 +51,7 @@
 
 @font-face {
   font-family: 'PP Telegraf';
-  src: url('/fonts/PPTelegraf-Ultralight.otf') format('opentype');
+  src: url('../assets/fonts/PPTelegraf-Ultralight.otf') format('opentype');
   font-weight: 200;
   font-style: normal;
   font-display: swap;
