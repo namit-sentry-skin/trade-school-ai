@@ -12,10 +12,6 @@ const CTA = () => {
             Start your free 14-day trial today—no credit card required.
           </p>
           <div className="cta-buttons">
-            <button className="btn btn-primary btn-large">
-              Start Free Trial
-              <ArrowRight size={20} />
-            </button>
             <button className="btn btn-secondary btn-large">
               Schedule Demo
               <Calendar size={20} />

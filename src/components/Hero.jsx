@@ -19,12 +19,8 @@ const Hero = () => {
           </p>
           <div className="hero-buttons">
             <button className="btn btn-primary btn-large">
-              Start Free Trial
+              Book Demo
               <ArrowRight size={20} />
-            </button>
-            <button className="btn btn-secondary btn-large">
-              Watch Demo
-              <Play size={20} />
             </button>
           </div>
           <div className="hero-stats-inline">

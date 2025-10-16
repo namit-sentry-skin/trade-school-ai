@@ -38,7 +38,7 @@ const Features = () => {
   return (
     <section id="features" className="features section">
       <div className="container">
-        <h2 className="section-title">Powerful Features for Trade Schools</h2>
+        <h2 className="section-title">What do you get?</h2>
         <p className="section-subtitle">
           Everything you need to transform how you connect with prospective students
         </p>
