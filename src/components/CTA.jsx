@@ -11,10 +11,10 @@ const CTA = () => {
             Join 150+ vocational trade schools already using AI to increase enrollments. 
           </p>
           <div className="cta-buttons">
-            <button className="btn btn-secondary btn-large">
+            <a href="https://calendly.com/anishabhandari/book-a-sentry-skin-demo" target="_blank" rel="noopener noreferrer" className="btn btn-secondary btn-large">
               Schedule Demo
               <Calendar size={20} />
-            </button>
+            </a>
           </div>
           <div className="cta-features">
             <div className="cta-feature">
