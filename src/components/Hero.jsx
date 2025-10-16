@@ -18,10 +18,10 @@ const Hero = () => {
             Replace static forms with engaging, personalized conversations that convert.
           </p>
           <div className="hero-buttons">
-            <button className="btn btn-primary btn-large">
+            <a href="https://calendly.com/anishabhandari/book-a-sentry-skin-demo" target="_blank" rel="noopener noreferrer" className="btn btn-primary btn-large">
               Book Demo
               <ArrowRight size={20} />
-            </button>
+            </a>
           </div>
           <div className="hero-stats-inline">
             <div className="stat-inline">
