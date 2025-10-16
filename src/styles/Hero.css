@@ -18,6 +18,7 @@
 }
 
 .hero-content {
+  margin-top: 1rem;
   display: flex;
   flex-direction: column;
   gap: 2rem;
@@ -206,9 +207,6 @@
     font-size: 1.125rem;
   }
 
-  .hero-visual {
-    height: 400px;
-  }
 
   .dashboard-container {
     padding: 1rem;
@@ -219,6 +217,7 @@
   }
 
   .hero-buttons {
+    width: 200px;
     flex-direction: column;
   }
 

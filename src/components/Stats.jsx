@@ -5,7 +5,7 @@ const Stats = () => {
   const stats = [
     {
       number: '294,539',
-      label: 'Healthcare Trade Schools',
+      label: 'Barber, Cosmetology, and Esthetics Trade Schools',
       growth: '+3.3% growth',
       description: 'Prospects often have urgent career transition needs but face complex prerequisite requirements and financial aid navigation.',
       icon: HeartPulse

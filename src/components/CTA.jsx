@@ -33,7 +33,7 @@ const CTA = () => {
               <span className="cta-feature-icon">
                 <Check size={14} strokeWidth={3} />
               </span>
-              <span>Setup in under 10 minutes</span>
+              <span>Save enrollment officers' time</span>
             </div>
           </div>
         </div>

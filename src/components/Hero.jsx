@@ -11,7 +11,7 @@ const Hero = () => {
             AI-Powered Enrollment Solutions
           </div>
           <h1 className="hero-title">
-            Transform Conversations Into <span className="gradient-text">Enrollments</span>
+            Convert website visitors into <span className="gradient-text">Enrollments</span>
           </h1>
           <p className="hero-description">
             Boost your vocational trade school enrollment rates by up to 3x with our intelligent conversational AI agent. 
