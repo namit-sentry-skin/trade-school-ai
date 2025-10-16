@@ -9,7 +9,6 @@ const CTA = () => {
           <h2 className="cta-title">Ready to Boost Your Enrollment?</h2>
           <p className="cta-description">
             Join 150+ vocational trade schools already using AI to increase enrollments. 
-            Start your free 14-day trial today—no credit card required.
           </p>
           <div className="cta-buttons">
             <button className="btn btn-secondary btn-large">
@@ -22,13 +21,13 @@ const CTA = () => {
               <span className="cta-feature-icon">
                 <Check size={14} strokeWidth={3} />
               </span>
-              <span>14-day free trial</span>
+              <span>Understand your students better</span>
             </div>
             <div className="cta-feature">
               <span className="cta-feature-icon">
                 <Check size={14} strokeWidth={3} />
               </span>
-              <span>No credit card required</span>
+              <span>Filter in high quality leads</span>
             </div>
             <div className="cta-feature">
               <span className="cta-feature-icon">
